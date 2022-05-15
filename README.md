@@ -6,14 +6,10 @@ The original problem description and data set can be found here: https://www.kag
 This project was completed as part of Udacity's Data Analyst Nanodegree certification.
 
 # Statistical Analysis Scope
--Data Wrangling
-
--Exploratory Data Analysis (EDA)
-
--Data visualizations
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Data visualizations
 
 # Tools
-
--Python, libraries: numpy, pandas, matplotlib
-
--Jupyter Lab
+- Python, libraries: numpy, pandas, matplotlib
+- Jupyter Lab
