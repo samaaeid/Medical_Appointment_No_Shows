@@ -7,9 +7,13 @@ This project was completed as part of Udacity's Data Analyst Nanodegree certific
 
 # Statistical Analysis Scope
 -Data Wrangling
+
 -Exploratory Data Analysis (EDA)
+
 -Data visualizations
 
 # Tools
+
 -Python, libraries: numpy, pandas, matplotlib
+
 -Jupyter Lab
